@@ -1,2 +1,2 @@
-# wso2-apim-v4
-WSO2 API Manager v4 training resources
+# WSO2 API Manager v4 Training Resources
+This repository contains WSO2 APIM v4 training resources
